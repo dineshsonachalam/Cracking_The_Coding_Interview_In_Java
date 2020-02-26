@@ -1,3 +1,5 @@
+package Maths;
+
 import java.util.Scanner;
 
 /* 
@@ -5,7 +7,6 @@ import java.util.Scanner;
  *  It's series n/2,....n/n-1
  *  Whiteboard: https://imgur.com/gallery/sN4EOuk
  */
-
 
 public class PrimeNumberBasic {
 
